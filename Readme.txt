@@ -5,12 +5,6 @@
 - HLSL 셰이더: Hidden/Fullscreen/Ripple URP
 - 인터랙션 스크립트: FullscreenRippleInteractive.cs (마우스·터치 위치를 리플 중심으로 전달, 슬라이더로 진폭·주파수·속도 제어)
 
-### 산출물 링크
-- 셰이더: [Assets/Shaders/FullscreenRipple.shader](Assets/Shaders/FullscreenRipple.shader)
-- 머티리얼: [Assets/Materials/M_FullscreenRipple.mat](Assets/Materials/M_FullscreenRipple.mat)
-- 스크립트: [Assets/Scripts/FullscreenRippleInteractive.cs](Assets/Scripts/FullscreenRippleInteractive.cs)
-- 데모 캡처(권장 위치): [docs/demo.gif](docs/demo.gif), [docs/demo.mp4](docs/demo.mp4)
-
 ### 핵심 설정 스냅샷
 - Renderer Asset: PC_RPAsset
 - Renderer Data: PC_Renderer
